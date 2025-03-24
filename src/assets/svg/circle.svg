@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212" height="249" viewBox="0 0 212 249" fill="none">
+  <g filter="url(#filter0_f_42_90)">
+    <g clip-path="url(#paint0_angular_42_90_clip_path)" data-figma-skip-parse="true"><g transform="matrix(0 0.125 -0.125 0 265 265)"><foreignObject x="-1005.59" y="-1005.59" width="2011.17" height="2011.17"><div xmlns="http://www.w3.org/1999/xhtml" style="background:conic-gradient(from 90deg,rgba(97, 46, 171, 0.5131) 0deg,rgba(97, 47, 171, 0) 50.0174deg,rgba(97, 47, 171, 1) 129.551deg,rgba(97, 47, 171, 0) 226.057deg,rgba(97, 46, 171, 1) 312.537deg,rgba(97, 46, 171, 0.5131) 360deg);height:100%;width:100%;opacity:1"></div></foreignObject></g></g><circle cx="265" cy="265" r="125" data-figma-gradient-fill="{&quot;type&quot;:&quot;GRADIENT_ANGULAR&quot;,&quot;stops&quot;:[{&quot;color&quot;:{&quot;r&quot;:0.38039216399192810,&quot;g&quot;:0.18431372940540314,&quot;b&quot;:0.67058825492858887,&quot;a&quot;:0.0},&quot;position&quot;:0.13893719017505646},{&quot;color&quot;:{&quot;r&quot;:0.38039216399192810,&quot;g&quot;:0.18431372940540314,&quot;b&quot;:0.67058825492858887,&quot;a&quot;:1.0},&quot;position&quot;:0.35986486077308655},{&quot;color&quot;:{&quot;r&quot;:0.38039216399192810,&quot;g&quot;:0.18431372940540314,&quot;b&quot;:0.67058825492858887,&quot;a&quot;:0.0},&quot;position&quot;:0.62793612480163574},{&quot;color&quot;:{&quot;r&quot;:0.38039219379425049,&quot;g&quot;:0.18431371450424194,&quot;b&quot;:0.67058825492858887,&quot;a&quot;:1.0},&quot;position&quot;:0.86815887689590454}],&quot;stopsVar&quot;:[],&quot;transform&quot;:{&quot;m00&quot;:1.5308085948482174e-14,&quot;m01&quot;:-250.0,&quot;m02&quot;:390.0,&quot;m10&quot;:250.0,&quot;m11&quot;:1.5308085948482174e-14,&quot;m12&quot;:140.0},&quot;opacity&quot;:1.0,&quot;blendMode&quot;:&quot;NORMAL&quot;,&quot;visible&quot;:true}"/>
+  </g>
+  <defs>
+    <filter id="filter0_f_42_90" x="0" y="0" width="530" height="530" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="70" result="effect1_foregroundBlur_42_90"/>
+    </filter>
+    <clipPath id="paint0_angular_42_90_clip_path"><circle cx="265" cy="265" r="125"/></clipPath>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(100 100) rotate(90) scale(100)">
+      <stop offset="0%" stopColor="#2E335A" stopOpacity="0.4"/>
+      <stop offset="100%" stopColor="#1c1b33" stopOpacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="100" cy="100" r="100" fill="url(#paint0_radial)"/>
+</svg>
